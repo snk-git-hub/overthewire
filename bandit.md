@@ -8,3 +8,4 @@
 ./ (Current Directory): This only searches inside the folder you are currently standing in (and its subfolders).
 
 "find / -user bandit7 -group bandit6 -size 33c "
+- By adding 2>/dev/null, you are telling the computer: "Take all the errors (2) and throw them into a black hole (/dev/null) so I don't have to see them.  " find / -user bandit7 -group bandit6 -size 33c 2>/dev/null "
