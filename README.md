@@ -1,7 +1,7 @@
 # overthewire
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 
-level 1 : ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
-level 2 : 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
-level 3 : MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
-level 4 : 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+- level 1 : ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+- level 2 : 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+- level 3 : MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+- level 4 : 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
