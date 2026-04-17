@@ -8,3 +8,4 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 - level 5 : 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 - level 6 : HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 - level 7 : morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+- level 8 : dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
