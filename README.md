@@ -1,5 +1,4 @@
 # overthewire
-# https://overthewire.org/wargames/bandit/bandit0.html
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 - level 1 : ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
@@ -8,3 +7,4 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 - level 4 : 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ 
 - level 5 : 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 - level 6 : HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+- level 7 : 
