@@ -1,3 +1,13 @@
+# OverTheWire Bandit
+
+Banditis a beginner friendly wargame from OverTheWire designed to help you learn basic Linux commands and concepts.
+
+
+This repository contains my solutions and notes while progressing through Bandit levels.
+
+---
+
+
 # overthewire
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 
