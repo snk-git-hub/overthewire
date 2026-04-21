@@ -22,3 +22,5 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 - level 9 :  4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 - level 10 : FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 - level 11 : dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+- level 12 : 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+
